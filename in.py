@@ -1,3 +1,3 @@
-print ('hello world')
-print('qualquer coisa')
+print ('hellokdjfkworld')
+print('uhkshjks')
 print
